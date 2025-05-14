@@ -13,7 +13,10 @@ Supports input via typing or pasting the `/players X` command.
 
 ## Usage
 
-1. Run the script or the compiled `.exe`.
+1. Run the script below or the compiled `.exe`.
+```bash
+python overlay.py
+```
 2. In Diablo II, either:
    - Type `/players X` and press `Enter`
    - Paste `/players X`, optionally edit the number, and press `Enter`
